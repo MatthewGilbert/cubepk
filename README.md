@@ -5,4 +5,4 @@ provided by [Hugo Pfoertner](http://www.pfoertner.org/)
 at: http://www.randomwalk.de/sequences/a084824.txt
 
 This function can be used effectively for scatter plots with n points in order
-to maximize the RGB distance among poitns.
+to maximize the RGB distance among points.
